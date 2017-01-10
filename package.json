@@ -7,6 +7,9 @@
         "example" : "example",
         "test" : "test"
     },
+    "files": [
+        "index.js"
+    ],
     "devDependencies" : {
         "tape" : "~1.0.4"
     },
